@@ -1,0 +1,14 @@
+{
+  "name": "class_18-api",
+  "version": "1.0.0",
+  "description": "This is REST API project for React and mobile developer.",
+  "main": "index.js",
+  "scripts": {
+    "js" : "json-server --watch db.json --port 5050"
+  },
+  "author": "tohidbi1",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

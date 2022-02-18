@@ -1,0 +1,113 @@
+{
+    "Product" : [
+        {
+            "id" : 1,
+            "name" : "Hp 3.9v Laptops",
+            "category" : "Electronics",
+            "brands" : "HP",
+            "price" : 10002
+        },
+        {
+            "id" : 2,
+            "name" : "SanDisk SSD PLUS 1TB Internal SSD",
+            "category" : "Electronics",
+            "brands" : "SanDisk",
+            "price" : 152
+        },
+        {
+            "id" : 3,
+            "name" : "Pierced Owl Rose Gold",
+            "category" : "jewelery",
+            "brands" : "Star Gold",
+            "price" : 10092
+        },
+        {
+            "id" : 4,
+            "name" : "iphone 11pro",
+            "category" : "Electronics",
+            "brands" : "Apple",
+            "price" : 1080
+        },
+        {
+            "id" : 5,
+            "name" : "Fjallraven - Foldsack No. 1 Backpack",
+            "category" : "men's clothing",
+            "brands" : "KK Mens",
+            "price" : 10002
+        },
+        {
+            "id" : 6,
+            "name" : "BIYLACLESEN Women's 3-in-1",
+            "category" : "women's clothing",
+            "brands" : "Nike",
+            "price" : 308
+        }
+
+    ],
+
+    "Devs" : [
+        {
+            "id" : 1,
+            "name" : "Tohid",
+            "skills" : "MERN Developer"
+        },
+        {
+            "id" : 2,
+            "name" : "Tofa",
+            "skills" : "IOS Developer"
+        },
+        {
+            "id" : 3,
+            "name" : "Tarin",
+            "skills" : "Java Developer"
+        },
+        {
+            "id" : 4,
+            "name" : "Sazid",
+            "skills" : "Django Developer"
+        }
+    ],
+
+    "students" : [
+        {
+            "id" : 1,
+            "name" : "Sharif Islam",
+            "roll" : 20,
+            "class" : 8,
+            "cgpa" : 3.85,
+            "gread" : "A-"
+        },
+        {
+            "id" : 2,
+            "name" : "Ariful Haq",
+            "roll" : 10,
+            "class" : 10,
+            "cgpa" : 4.00,
+            "gread" : "A"
+        },
+        {
+            "id" : 3,
+            "name" : "Shavow Khan",
+            "roll" : 7,
+            "class" : 7,
+            "cgpa" : 5.00,
+            "gread" : "A+"
+        },
+        {
+            "id" : 4,
+            "name" : "Motin Haq",
+            "roll" : 25,
+            "class" : 7,
+            "cgpa" : 3.09,
+            "gread" : "B"
+        },
+        {
+            "id" : 5,
+            "name" : "Israfil Shak",
+            "roll" : 8,
+            "class" : 5,
+            "cgpa" : 3.78,
+            "gread" : "A-"
+        }
+    ]
+}
