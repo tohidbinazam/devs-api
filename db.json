@@ -1,5 +1,5 @@
 {
-    "Product" : [
+    "product" : [
         {
             "id" : 1,
             "name" : "Hp 3.9v Laptops",
@@ -44,7 +44,7 @@
         }
     ],
 
-    "Devs" : [
+    "devs" : [
         {
             "id" : 1,
             "name" : "Tohid",
