@@ -47,64 +47,95 @@
     {
       "id": 1,
       "name": "Tohid",
-      "age": 10,
-      "skillId": 3,
-      "rollId": 1
+      "email": "tohidbinazam@gmail.com",
+      "number": "01994249475",
+      "photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm7.jpg",
+      "skillId": "2",
+      "roleId": "2"
     },
     {
       "id": 2,
       "name": "Tofa",
-      "age": 25,
-      "skillId": 2,
-      "rollId": 2
+      "email": "tofa007@gmail.com",
+      "number": "01898549463",
+      "photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm9.jpg",
+      "skillId": "3",
+      "roleId": "3"
     },
     {
       "id": 3,
       "name": "Tarin",
-      "age": 36,
-      "rollId": 2
+      "email": "tarin2021@gmail.com",
+      "number": "01794242583",
+      "photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm8.jpg",
+      "skillId": "4",
+      "roleId": "2"
     },
     {
       "id": 4,
       "name": "Tosiba",
-      "age": 45,
-      "skillId": 4,
-      "rollId": 2
+      "email": "tosibaislam@gmail.com",
+      "number": "01364249463",
+      "photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm6.jpg",
+      "skillId": "4",
+      "roleId": "1"
     },
     {
       "id": 5,
       "name": "Harun",
-      "age": 83,
-      "skillId": 1,
-      "rollId": 2
+      "email": "harunrahaman@gmail.com",
+      "number": "01492569496",
+      "photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm5.jpg",
+      "skillId": "2",
+      "roleId": "3"
     },
     {
       "id": 6,
       "name": "Zafor",
-      "age": 56,
-      "skillId": 2,
-      "rollId": 2
+      "email": "zaforhero@gmail.com",
+      "number": "01694658241",
+      "photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm3.jpg",
+      "skillId": "1",
+      "roleId": "2"
+    },
+    {
+      "id": 7,
+      "name": "Tohid Bin Azam",
+      "email": "contact@todayhours.com",
+      "number": "01646018542",
+      "photo": "https://images.unsplash.com/photo-1554080353-a576cf803bda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "skillId": "3",
+      "roleId": "3"
+    },
+    {
+      "id": 8,
+      "name": "Tohid Bin",
+      "email": "contact@todayhours.com",
+      "number": "01646018542",
+      "photo": "https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBob3RvfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "skillId": "2",
+      "roleId": "1"
     }
   ],
-  "skill": [
+  "skills": [
     {
       "id": 1,
-      "skills": "MERN Developer"
+      "name": "MERN Developer"
     },
     {
       "id": 2,
-      "skills": "IOS Developer"
+      "name": "IOS Developer"
     },
     {
       "id": 3,
-      "skills": "Java Developer"
+      "name": "Java Developer"
     },
     {
       "id": 4,
-      "skills": "Django Developer"
+      "name": "Django Developer"
     }
   ],
-  "roll": [
+  "roles": [
     {
       "id": 1,
       "name": "Super Admin"
